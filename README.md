@@ -7,4 +7,4 @@ Another thing to be noted is that the HTML code needs a folder with the src imag
 --
 
 Apenas um pequeno teste de HTML que estou fazendo. Com o tempo vai melhorar, mas por enquanto nada demais.
-Algo que deve ser citado é que para o HTML precisa de uma pasta com as imagens src para que elas carreguem adequadamente. Elas serão postadas aqui.
+Algo que deve ser citado é que o HTML precisa de uma pasta com as imagens src para que elas carreguem adequadamente. Elas serão postadas aqui.
